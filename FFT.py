@@ -1,8 +1,8 @@
 import numpy as np
 import copy
 
-point_num = 8 #任意（2^nのみ）
-data = [2, 6, 9, 1, 9, 25, 23, 10] ##任意
+point_num = 16 #任意（2^nのみ）
+data = [2, 6, 9, 1, 9, 25, 23, 10,12,2,13,10,20,44,21,31] ##任意
 """
 if point_num != 2^n の場合で分ければ良いかもね
 """
